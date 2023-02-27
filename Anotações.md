@@ -4,8 +4,10 @@
 >-Nome do arquivo deve começar com letra maiúscula, as próximas palavras também devem começar. </br>
 >Ex: Calculadora.java / CalculadoraCientifica.java</br>
 
-Toda variável a ser criada deve ser minúscula, se for composta, as próximas palavras devem começar com letra maiúscula. Ex: janela / janelaFechada
-Regra de variáveis: Nunca usar simbólos, exceto $ e _ (underline). Nunca usar espaço ( ), nunca usar palavras reservadas (void,long,int) e nunca começar com números (1variavel).
+-Toda variável a ser criada deve ser minúscula, se for composta, as próximas palavras devem começar com letra maiúscula. </br> 
+Ex: janela / janelaFechada </br>
+-Regra de variáveis: </br>
+	-Nunca usar simbólos, exceto $ e _ (underline). Nunca usar espaço ( ), nunca usar palavras reservadas (void,long,int) e nunca começar com números (1variavel).
 Toda vez que eu tiver algo a ser executado, construo na minha main. 
 Como declarar:
 Variável: tipo NomeBemDefinido: atribuição,valor;
