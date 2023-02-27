@@ -4,7 +4,7 @@
 >-Nome do arquivo deve começar com letra maiúscula, as próximas palavras também devem começar. </br>
 >Ex: Calculadora.java / CalculadoraCientifica.java</br>
 
--Toda variável a ser criada deve ser minúscula, se for composta, as próximas palavras devem começar com letra maiúscula. </br> 
+>-Toda variável a ser criada deve ser minúscula, se for composta, as próximas palavras devem começar com letra maiúscula. </br> 
 Ex: janela / janelaFechada </br>
 +Regra de variáveis: </br>
 -Nunca usar simbólos, exceto $ e _ (underline). 
