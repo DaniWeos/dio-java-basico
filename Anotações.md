@@ -1,4 +1,4 @@
-<h1>Anotações pessoais<h1>
+<h1>Anotações pessoais</h1>
 
 Toda classe deve ser criada na pasta src.
 Nome do arquivo deve começar com letra maiúscula, as próximas palavras também devem começar. Ex: Calculadora.java / CalculadoraCientifica.java
