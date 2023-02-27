@@ -1,7 +1,7 @@
 <h1>Anotações pessoais</h1>
 
->Toda classe deve ser criada na pasta src.
->Nome do arquivo deve começar com letra maiúscula, as próximas palavras também devem começar. Ex: Calculadora.java / CalculadoraCientifica.java
+>-Toda classe deve ser criada na pasta src.
+>-Nome do arquivo deve começar com letra maiúscula, as próximas palavras também devem começar. Ex: Calculadora.java / CalculadoraCientifica.java
 
 Toda variável a ser criada deve ser minúscula, se for composta, as próximas palavras devem começar com letra maiúscula. Ex: janela / janelaFechada
 Regra de variáveis: Nunca usar simbólos, exceto $ e _ (underline). Nunca usar espaço ( ), nunca usar palavras reservadas (void,long,int) e nunca começar com números (1variavel).
