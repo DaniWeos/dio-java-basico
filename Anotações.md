@@ -7,7 +7,7 @@
 -Toda variável a ser criada deve ser minúscula, se for composta, as próximas palavras devem começar com letra maiúscula. </br> 
 Ex: janela / janelaFechada </br>
 -Regra de variáveis: </br>
-	-Nunca usar simbólos, exceto $ e _ (underline). Nunca usar espaço ( ), nunca usar palavras reservadas (void,long,int) e nunca começar com números (1variavel).
+ -Nunca usar simbólos, exceto $ e _ (underline). Nunca usar espaço ( ), nunca usar palavras reservadas (void,long,int) e nunca começar com números (1variavel).
 Toda vez que eu tiver algo a ser executado, construo na minha main. 
 Como declarar:
 Variável: tipo NomeBemDefinido: atribuição,valor;
